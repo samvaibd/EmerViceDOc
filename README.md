@@ -1,6 +1,8 @@
 
 # About EmerVice
 
+![image](https://images.pexels.com/photos/6520076/pexels-photo-6520076.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800)
+
 The website will be made usually to take the patient to the nearest hospital in his hometown in case of emergency. Many of us do not have ambulance numbers nearby. Again, in an emergency, a lot of time is spent to decide which hospital the patient should go to. As a result, it becomes a problem to take the patient to the doctor at a certain time. Therefore, we want to make a website that will eliminate these problems. More features will be added to the website.
 
  The service of the creation is the service of the Creator.
